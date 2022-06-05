@@ -1,0 +1,30 @@
+body {
+    background: green
+}
+.container {
+    width: 350px;
+    height: 460px;
+    background: white;
+    margin: auto;
+    display: flex;
+    border-radius: 25px;
+    position: relative;
+}
+.numero {
+    margin: auto;
+    display: flex;
+}
+h1 {
+    font-size: 140px;
+    padding-left: 15px;
+}
+.symbol {
+    font-size: 100px;
+}
+.simboloArriba {
+    padding-left: 15px;
+}
+.simboloAbajo {
+    padding-right: 15px;
+    padding-top: 340px;
+}
